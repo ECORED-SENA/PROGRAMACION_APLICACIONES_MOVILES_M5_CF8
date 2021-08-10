@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Instalador y despliegue de la aplicación móvil',
     descripcionCurso:
-      'En este componente, el aprendiz conocerá parámetros de desarrollo y ejecución de una app móvil. Estudiará elementos que aseguren la calidad del montaje y despliegue de la app, identificando, además, fallas e inconsistencias del proceso de desarrollo y funcionamiento. Sabrá definir acciones correctivas y pruebas pertinentes para ofrecer una app útil, segura y acorde a necesidades de organizaciones o del mercado.',
+      'En este componente, el aprendiz conocerá parámetros de desarrollo y ejecución de una <i>app</i> móvil. Estudiará elementos que aseguren la calidad del montaje y despliegue de la <i>app</i>, identificando, además, fallas e inconsistencias del proceso de desarrollo y funcionamiento. Sabrá definir acciones correctivas y pruebas pertinentes para ofrecer una <i>app</i> útil, segura y acorde a necesidades de organizaciones o del mercado.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Calidad en desarrollo de apps móviles',
+        titulo: 'Calidad en desarrollo de <i>apps</i> móviles',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -35,13 +35,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Tipos de pruebas de software',
+            titulo: 'Tipos de pruebas de <i>software</i>',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Pruebas de calidad de software',
+            titulo: 'Pruebas de calidad de <i>software</i>',
             hash: 't_1_3',
           },
         ],
@@ -50,33 +50,33 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Etapas para realizar pruebas de software',
+        titulo: 'Etapas para realizar pruebas de <i>software</i>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Herramientas para pruebas de apps móviles',
+        titulo: 'Herramientas para pruebas de <i>apps</i> móviles',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Validación de lineamientos para envió a las app stores',
+        titulo: 'Validación de lineamientos para envió a las <i>app stores</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Google Play',
+            titulo: '<i>Google Play</i>',
             hash: 't_4_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: 'App Store',
+            titulo: '<i>App Store</i>',
             hash: 't_4_2',
           },
         ],
@@ -154,7 +154,7 @@ export default {
       referencia:
         'Puglla, G. (2017). Marco de trabajo para control de calidad en el desarrollo de aplicaciones móviles bajo metodologías ágiles. Universidad Técnica Particular de Loja.',
       link:
-        'Puglla, G. (2017). Marco de trabajo para control de calidad en el desarrollo de aplicaciones móviles bajo metodologías ágiles. Universidad Técnica Particular de Loja.',
+        'https://docplayer.es/91113144-Universidad-tecnica-particular-de-loja-la-universidad-catolica-de-loja-area-tecnica.html',
     },
     {
       referencia:
@@ -187,7 +187,7 @@ export default {
     {
       termino: 'Soportabilidad',
       significado:
-        'También se puede encontrar como "portabilidad" es una de las definiciones utilizadas en programación de alto nivel. Se define como la característica que posee un software para ejecutarse en diferentes plataformas.',
+        'También se puede encontrar como "portabilidad" es una de las definiciones utilizadas en programación de alto nivel. Se define como la característica que posee un <i>software</i> para ejecutarse en diferentes plataformas.',
     },
   ],
   complementario: [
@@ -271,13 +271,42 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Adriana Marcela Suárez Eljure',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martínez Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Maria Camila Ovalle Ovalle',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

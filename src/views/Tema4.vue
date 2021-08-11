@@ -16,7 +16,7 @@
       h2 4.1 <i>Google Play</i>
     .row.mb-5
       .col-lg-7
-        p.mb-4 <i>Android</i> ofrece muchas opciones para la distribución de aplicaciones. Hay otras tiendas alternativas, pero <i>Google Play</i> es la plataforma principal para distribuir aplicaciones de <i>Android</i>. Lo primero que se debe realizar es crear una cuenta de desarrollador de <i>Google Play</i> para tener acceso al perfil de desarrollador y publicar la aplicación en <i>Play Store</i>8. Esta suscripción tiene un costo que, para el año 2021, no supera los US$25 y con esa primera suscripción se tendrá acceso, de por vida, para publicar todas las aplicaciones que se quiera. 
+        p.mb-4 <i>Android</i> ofrece muchas opciones para la distribución de aplicaciones. Hay otras tiendas alternativas, pero <i>Google Play</i> es la plataforma principal para distribuir aplicaciones de <i>Android</i>. Lo primero que se debe realizar es crear una cuenta de desarrollador de <i>Google Play</i> para tener acceso al perfil de desarrollador y publicar la aplicación en <i>Play Store</i>. Esta suscripción tiene un costo que, para el año 2021, no supera los US$25 y con esa primera suscripción se tendrá acceso, de por vida, para publicar todas las aplicaciones que se quiera. 
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 La información suministrada durante el registro aparecerá más tarde en la tienda. Cuando el usuario final navegue por la aplicación en <i>Play Store</i>, podrá obtener información sobre la identidad del desarrollador. La información proporcionada por <i>Play Store</i> es la información que declaró cuando se abrió la cuenta de editor de <i>Google</i>. 
       .col-lg-5: img(src="@/assets/curso/img27.jpg")(data-aos="slide-left")

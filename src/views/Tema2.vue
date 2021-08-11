@@ -25,7 +25,7 @@
           .titulo-segundo
             h3 Etapas Pruebas de <i>software</i>
           p.mb-4 Para una mejor comprensión del flujo de trabajo en la aplicación de las pruebas de <i>software</i>, descargue el  
-            b Anexo_1_EtapasPruebasde<i>software</i> 
+            b Anexo_1_EtapasPruebasde<i>software </i> 
             | y analice el esquema que allí se presenta. Recuerde llevar registro de los elementos más destacados de este punto.
           
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_EtapasPruebasdeSoftware.pdf')" target="_blank" type="application/pdf")

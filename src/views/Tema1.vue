@@ -129,8 +129,8 @@
       .col-lg-5: img(src="@/assets/curso/img11.jpg")(data-aos="slide-left")
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Uf1Kk52ONYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Tipos de pruebas de software
     #t_1_3.titulo-segundo
       h2 1.3 Pruebas de calidad de <i>software</i>
     p.mb-5 En el mismo sentido que se aplican todas las pruebas de <i>software</i>, se han de aplicar las pruebas de calidad del <i>software</i>, las cuales tienen unos pasos a seguir y favorecen una comprensión clara del <i>software</i> en términos de diseño, especificaciones, tiempos de trabajo, componentes, ejecución. Estas pruebas de calidad del <i>software</i> incluyen una estrategia y un plan de prueba, e incluso, el informe final de la prueba aplicada.
